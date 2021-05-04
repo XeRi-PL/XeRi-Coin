@@ -12,7 +12,7 @@ void setup()
 }
 
 // BiquCoin Hasher
-void minersetup(void)
+void minersetup()
 
 {
   //Serial.println("Block : " );
