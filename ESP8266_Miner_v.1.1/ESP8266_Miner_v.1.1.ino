@@ -4,10 +4,10 @@
 #include <ArduinoOTA.h>
 
 namespace {
-const char* ssid          = "";   // Change this to your WiFi SSID
-const char* password      = "";    // Change this to your WiFi password
-const char* ducouser      = "";     // Change this to your Duino-Coin username
-const char* rigIdentifier = "";       // Change this if you want a custom miner name
+const char* ssid          = "";   
+const char* password      = "";    
+const char* ducouser      = "";     
+const char* rigIdentifier = "";      
 
 const char * host = "127.0.0.1"; // Static server IP
 const int port = 1233;
@@ -89,7 +89,6 @@ unsigned int Shares = 0; // Share variable
     yield();
   }
 
-  // https://stackoverflow.com/questions/9072320/split-string-into-string-array
   String getValue(String data, char separator, int index)
   {
     int found = 0;
@@ -129,7 +128,7 @@ unsigned int Shares = 0; // Share variable
     Serial.println("\nConnecting to BQU server...");
  
     Serial.println("Connected to the server. Server version: v1.1");
-    blink(BLINK_CLIENT_CONNECT); // Blink 3 times - indicate sucessfull connection with the server
+    blink(BLINK_CLIENT_CONNECT);
   }
 
   bool max_micros_elapsed(unsigned long current, unsigned long max_elapsed) {
@@ -146,7 +145,7 @@ unsigned int Shares = 0; // Share variable
 
 void setup() {
   Serial.begin(115200); // Start serial connection
-  Serial.println("\nDuino-Coin ESP8266 Miner v2.4.5");
+  Serial.println("\nBiquCoin ESP8266 Miner v1.1");
 
   delay(rand() % 1000); // delay up to 1sec to stagger start-ups
   pinMode(LED_BUILTIN, OUTPUT); // prepare for blink() function
