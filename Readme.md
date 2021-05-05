@@ -6,16 +6,17 @@
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on future
 - 📫 How to reach me ...
+
 :)
 
-Biqu Coin BQU project started in 12.04.2021 y.
+- Biqu Coin BQU project started in 12.04.2021 y.
 
-This crypto created By BiquCraft (Ziko9231 in Discord) and helpful people Thank's for help my friend's :) 
+- This crypto created By BiquCraft (Ziko9231 in Discord) and helpful people Thank's for help my friend's :) 
 
-BQU is easy cryptocurrency. Project planned which fork Duino-Coin Library's - It's very helpful :)
+- BQU is easy cryptocurrency. Project planned which fork Duino-Coin Library's - It's very helpful :)
 
-BQU is legal Crypto. Mine it , and profit !
+- BQU is legal Crypto. Mine it , and profit !
 
-Price BQU in future :)
+- Price BQU in future :)
 
-More readme in future.
+- More readme in future.
