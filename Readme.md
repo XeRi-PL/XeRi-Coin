@@ -1,6 +1,6 @@
 <p align = "center">
   <a href="https://duinocoin.com">
-    <img width="300em" src="https://user-images.githubusercontent.com/82400252/117700032-cf541580-b1c5-11eb-9053-0d9e3c3a66e4.png" />
+    <img width="700em" src="https://user-images.githubusercontent.com/82400252/117700032-cf541580-b1c5-11eb-9053-0d9e3c3a66e4.png" />
   </a>
 </p>
 
