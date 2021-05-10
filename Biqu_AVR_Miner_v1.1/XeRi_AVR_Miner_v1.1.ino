@@ -11,7 +11,7 @@ void setup()
   delay (5100);
 }
 
-// BiquCoin Hasher
+// Xeri Coin Hasher
 void minersetup()
 
 {
@@ -22,7 +22,7 @@ void minersetup()
 
 void loop(void) {
 
-  // 24 H profit : 5,664384 BQU
+  // 24 H profit : 5,664384 XRQ
   // 24 H profit =  $
   // 30 DAY's profit =  $
 
@@ -41,7 +41,7 @@ void miner()
   do
   {
     delay(450);
-    Serial.println("Biqu-Coin * 2,00 s * 100H/s * Job Accepted : " + String(job) + "/" + String(job) + " * " + String(MM, DEC) + " Mined of BQU" );
+    Serial.println("XeRi-Coin * 2,00 s * 100H/s * Job Accepted : " + String(job) + "/" + String(job) + " * " + String(MM, DEC) + " Mined of XRQ" );
     delay (500);
     Serial.println("Amount mined : " + String(BQU * MM, DEC ) + " $ in BQU" );
 
