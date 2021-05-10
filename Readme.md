@@ -36,6 +36,22 @@
   </tr>
 </table>
 
+
+
+<h2 align="center">Development</h2><br>
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
+Any contributions you make to the XeRi-Coin project are greatly appreciated.
+
+How to help?
+
+*   Fork the Project
+*   Create your feature branch
+*   Commit your changes
+*   Make sure everything works as intended
+*   Open a pull request
+
+
 <h2 align="center">Get started</h2><br>
 
 - 👋 Hi, I’m @XeRi-PL
