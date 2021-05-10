@@ -79,7 +79,7 @@ Some third-party included files may have different licenses - please check their
 14. Exchange requests made to the offical exchange may be declined due to ToS violations and/or low funding.<br/>
 15. A user's XRQ's may be burnt if a violation can be proven.<br/>
 16. These terms of service can change at any time without prior notice.<br/>
-17. Every user using Duino-Coin agrees to comply with the above rules.<br/>
+17. Every user using XeRi-Coin agrees to comply with the above rules.<br/>
 
 
 <h4 align="center">Privacy policy</h2><br>
