@@ -1,8 +1,8 @@
 ##########################################
-# Biqu-Coin Python AVR Miner (v1.0)
-# https://github.com/BiquCraft/Biqu-Coin
+# XeRi-Coin Python AVR Miner (v1.0)
+# https://github.com/XeRi-PL/XeRi-Coin
 # Distributed under MIT license
-# © Biqu-Coin Community 2021
+# © XeRi-Coin Community 2021
 ##########################################
 # Import libraries
 
@@ -20,10 +20,10 @@ init(autoreset=True)
 
 #print(colored('Waiting for device' , 'white' , 'on_blue'));
 #print(colored('##########################################' , 'red' , 'on_green'));
-#print(colored('# Biqu-Coin Python AVR Miner (v1.0)      #' , 'red' , 'on_green'));
-#print(colored('# https://github.com/BiquCraft/Biqu-Coin #' , 'red' , 'on_green'));
+#print(colored('# XeRi-Coin Python AVR Miner (v1.0)      #' , 'red' , 'on_green'));
+#print(colored('# https://github.com/XeRi-PL/XeRi-Coin   #' , 'red' , 'on_green'));
 #print(colored('# Distributed under MIT license          #' , 'red' , 'on_green'));
-#print(colored('# © Biqu-Coin Community 2021             #' , 'red' , 'on_green'));
+#print(colored('# © XeRi-Coin Community 2021             #' , 'red' , 'on_green'));
 #print(colored('##########################################' , 'red' , 'on_green'));
 
 
