@@ -1,4 +1,5 @@
-![185298439_1152753218525323_745669536861959412_n](https://user-images.githubusercontent.com/82400252/117699363-0aa21480-b1c5-11eb-84ef-ed3b7c1d0e90.png)
+![GITHUB LOGO XERI COIN](https://user-images.githubusercontent.com/82400252/117700032-cf541580-b1c5-11eb-9053-0d9e3c3a66e4.png)
+
 
 
 
