@@ -1,16 +1,7 @@
-![GITHUB LOGO XERI COIN](https://user-images.githubusercontent.com/82400252/117700032-cf541580-b1c5-11eb-9053-0d9e3c3a66e4.png)
-
-
-<!--
-*** Official Duino Coin README
-*** by revox, 2019-2021
--->
-
 <p align = "center">
   <a href="https://duinocoin.com">
-    <img width="300em" src="" />
+    <img width="300em" src="https://user-images.githubusercontent.com/82400252/117700032-cf541580-b1c5-11eb-9053-0d9e3c3a66e4.png" />
   </a>
-  <br />
 </p>
 
 <h3 align="center">Duino-Coin is a coin that can be mined with Arduinos, ESP boards, Raspberry Pis, computers, and many more</h3>
