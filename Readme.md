@@ -1,4 +1,5 @@
-![1](https://user-images.githubusercontent.com/82400252/117113984-8813f200-ad8b-11eb-8a0d-71b07a55a0a4.jpg)
+![dab86a6f99994f699eb15c2956e44257 (1)](https://user-images.githubusercontent.com/82400252/117678477-b6d90080-b1af-11eb-91a3-5b92eb801e19.png)
+
 
 
 - 👋 Hi, I’m @XeRi-PL
