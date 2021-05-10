@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Duino-Coin is a coin that can be mined with Arduinos, ESP boards, Raspberry Pis, computers, and many more</h3>
+<h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards, Raspberry Pis, computers, and many more</h3>
 <h4 align="center">including Wi-Fi routers, smart TVs, smartphones, smartwatches, SBCs, MCUs, GPUs - you name it!</h4><br />
 
 <table align="center">
@@ -25,24 +25,18 @@
       📚 Open-source<br>
     </td>
     <td>
-      ♾️ Coin supply: Infinite (before December 2020: 350k coins)<br>
+      ♾️ Coin supply: Infinite (April 2021: 350k coins)<br>
       😎 Premine: <5k blocks (<500 coins)<br>
       ⚡ Transaction time: Instant<br>
       🔢 Decimals: up to 20<br>
-      🔤 Ticker: DUCO (ᕲ)<br>
-      ⚒️ Algorithms: DUCO-S1, DUCO-S1A, XXHASH +more planned<br>
-      ♐ Rewards: supported by "Kolka system" helping to reward miners fairly<br>
+      🔤 Ticker: XRQ (XRQ)<br>
+      ⚒️ Algorithms: ??? +more planned<br>
+      ♐ Rewards: supported by "XeRi system" helping to reward miners fairly<br>
     </td>
   </tr>
 </table>
 
 <h2 align="center">Get started</h2><br>
-
-
-
-
-
-
 
 - 👋 Hi, I’m @XeRi-PL
 - 👀 I’m interested in Crypto
