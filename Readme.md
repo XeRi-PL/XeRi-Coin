@@ -1,11 +1,11 @@
 <p align = "center">
   <a href="https://adamstefaniak57.wixsite.com/xeri-avr-mining?lang=en">
-    <img width="700em" src="https://user-images.githubusercontent.com/82400252/117700032-cf541580-b1c5-11eb-9053-0d9e3c3a66e4.png" />
+    <img width="600em" src="https://user-images.githubusercontent.com/82400252/117700032-cf541580-b1c5-11eb-9053-0d9e3c3a66e4.png" />
   </a>
 </p>
 
-<h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards, Raspberry Pis, computers, and many more</h3>
-<h4 align="center">including Wi-Fi routers, smart TVs, smartphones, smartwatches, SBCs, MCUs, GPUs - you name it!</h4><br />
+<h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards, Raspberry Pis</h3>
+<h4 align="center">including Wi-Fi routers, smart TVs, smartphones...</h4><br />
 
 <table align="center">
   <tr>
