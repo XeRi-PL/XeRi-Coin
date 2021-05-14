@@ -126,9 +126,9 @@ unsigned int Shares = 0; // Share variable
     if (client.connected())
       return;
 
-    Serial.println("\nConnecting to XRQ server...");
+    Serial.println("\nConnecting to XRQC server...");
  
-    Serial.println("Connected to the server. Server version: v1.1");
+    Serial.println("Connected to the server. Server Beta version: v1.2");
     blink(BLINK_CLIENT_CONNECT); // Blink 3 times - indicate sucessfull connection with the server
   }
 
