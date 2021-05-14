@@ -31,7 +31,7 @@ ports = list(serial.tools.list_ports.comports())
 for p in ports:
 	print (colored(p , 'white' , 'on_blue'))
 
-porten = input("Wich port ? : ")
+porten = input("Which port ? : ")
 print(colored('Mining started at {porten} !' , 'white' , 'on_magenta').format(porten = porten))
 
 COM = porten
