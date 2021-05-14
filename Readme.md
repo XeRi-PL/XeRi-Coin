@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards, Raspberry Pis</h3>
-<h4 align="center">including Wi-Fi routers, smart TVs, smartphones...</h4>
+<h4 align="center">including smartphones...</h4>
 <h5 align="center">README Forked by Duino - Coin</h5><br />
 
 
@@ -28,11 +28,11 @@
       📚 Open-source<br>
     </td>
     <td>
-      ♾️ Coin supply: Infinite (April 2021: 350k coins)<br>
+      ♾️ Coin supply: Infinite (April 2021: 1k coins)<br>
       😎 Premine: <5k blocks (<500 coins)<br>
       ⚡ Transaction time: Instant<br>
       🔢 Decimals: up to 20<br>
-      🔤 Ticker: XRQ (XRQ)<br>
+      🔤 Ticker: XRQC (XRQC)<br>
       ⚒️ Algorithms: ??? +more planned<br>
       ♐ Rewards: supported by "XeRi system" helping to reward miners fairly<br>
     </td>
@@ -66,7 +66,7 @@ Some third-party included files may have different licenses - please check their
 <h2 align="center">Terms of service</h2><br>
 
 
-1. XeRi-Coins ("XRQ's") are earned by miners with a process called mining.<br/>
+1. XeRi-Coins ("XRQC's") are earned by miners with a process called mining.<br/>
 2. Mining is described as using ???????? algorithm , in which finding a correct result to a mathematical problem gives the miner a reward.<br/>
 3. Mining can be officially done using CPUs, AVR boards (e.g. Arduino boards), Single-board computers (e.g. Raspberry Pi boards), ESP32/8266 boards with the usage of official miners (other officially allowed miners are described in the upper part of README).<br/>
 4. Mining on GPUs, FPGAs and other high-efficiency hardware is allowed, but using only the `EXTREME` mining difficulty.<br/>
@@ -78,7 +78,7 @@ Some third-party included files may have different licenses - please check their
 10. Multiple accounts used to bypass limits may be banned without prior notice.<br/>
 11. Accounts may be suspended temporarily to investigate ("investigations") ToS violations ("violation" or "abuse").<br/>
 12. Multiple accounts used to evade bans will be banned without prior notice.<br/>
-13. An exchange request made to the offical XRQ-Exchange ("the offical exchange") may be delayed and/or declined during investigations. <br/>
+13. An exchange request made to the offical XRQC-Exchange ("the offical exchange") may be delayed and/or declined during investigations. <br/>
 14. Exchange requests made to the offical exchange may be declined due to ToS violations and/or low funding.<br/>
 15. A user's XRQ's may be burnt if a violation can be proven.<br/>
 16. These terms of service can change at any time without prior notice.<br/>
@@ -89,7 +89,7 @@ Some third-party included files may have different licenses - please check their
 
 
 1. On the master server we only store usernames, hashed passwords (with the help of bcrypt) and e-mails of users as their account data.<br/>
-2. E-mails are not publicly available and are only used for contacting user when needed, confirming exchanges on the XRQ-Exchange and receiving an occasional newsletter (planned for the future).<br/>
+2. E-mails are not publicly available and are only used for contacting user when needed, confirming exchanges on the XRQC-Exchange and receiving an occasional newsletter (planned for the future).<br/>
 3. Balances, transactions and mining-related data is publicly available in the public</a>.<br/>
 4. The privacy policy may be changed in the future with a prior notification.
 
@@ -108,14 +108,14 @@ Some third-party included files may have different licenses - please check their
 
 :)
 
-- XeRi-Coin - XRQ - project started in 12.04.2021 y.
+- XeRi-Coin - XRQC - project started in 12.04.2021 y.
 
 - This crypto created By XeRi-PL (Ziko9231 in Discord) and helpful people Thank's for help my friend's :) 
 
-- XRQ is easy cryptocurrency. Project planned which fork Duino-Coin Library's - It's very helpful :)
+- XRQC is easy cryptocurrency. Project planned which fork Duino-Coin Library's - It's very helpful :)
 
-- XRQ is legal Crypto. Mine it , and profit !
+- XRQC is legal Crypto. Mine it , and profit !
 
-- Price XRQ in future :)
+- Price XRQC in future :)
 
 - More readme in future.
