@@ -81,7 +81,7 @@ Some third-party included files may have different licenses - please check their
 12. Multiple accounts used to evade bans will be banned without prior notice.<br/>
 13. An exchange request made to the offical XRQC-Exchange ("the offical exchange") may be delayed and/or declined during investigations. <br/>
 14. Exchange requests made to the offical exchange may be declined due to ToS violations and/or low funding.<br/>
-15. A user's XRQ's may be burnt if a violation can be proven.<br/>
+15. A user's XRQC's may be burnt if a violation can be proven.<br/>
 16. These terms of service can change at any time without prior notice.<br/>
 17. Every user using XeRi-Coin agrees to comply with the above rules.<br/>
 
