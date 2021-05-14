@@ -18,21 +18,21 @@ import socket
 
 init(autoreset=True)
 
-#print(colored('Waiting for device' , 'white' , 'on_blue'));
-#print(colored('##########################################' , 'red' , 'on_green'));
-#print(colored('# XeRi-Coin Python AVR Miner (v1.0)      #' , 'red' , 'on_green'));
-#print(colored('# https://github.com/XeRi-PL/XeRi-Coin   #' , 'red' , 'on_green'));
-#print(colored('# Distributed under MIT license          #' , 'red' , 'on_green'));
-#print(colored('# © XeRi-Coin Community 2021             #' , 'red' , 'on_green'));
-#print(colored('##########################################' , 'red' , 'on_green'));
+print(colored('Waiting for device' , 'white' , 'on_blue'));
+print(colored('##########################################' , 'white' , 'on_green'));
+print(colored('# XeRi-Coin Python AVR Miner (v1.2)      #' , 'white' , 'on_green'));
+print(colored('# https://github.com/XeRi-PL/XeRi-Coin   #' , 'white' , 'on_green'));
+print(colored('# Distributed under MIT license          #' , 'white' , 'on_green'));
+print(colored('# © XeRi-Coin Community 2021             #' , 'white' , 'on_green'));
+print(colored('##########################################' , 'white' , 'on_green'));
 
 
 ports = list(serial.tools.list_ports.comports())
 for p in ports:
 	print (colored(p , 'white' , 'on_blue'))
 
-porten = input("Podaj port: ")
-print(colored('Koparka na porcie {porten} zaczyna kopać!' , 'white' , 'on_magenta').format(porten = porten))
+porten = input("Wich port ? : ")
+print(colored('Mining started at {porten} !' , 'white' , 'on_magenta').format(porten = porten))
 
 COM = porten
 BAUD = 115200
@@ -41,7 +41,7 @@ ser = serial.Serial(porten, BAUD, timeout = .1)
 	
 sleep(3)
 
-print(colored('Wybrany port :' , 'white' , 'on_blue'));
+print(colored('Port :' , 'white' , 'on_blue'));
 
 sleep(3)
 
