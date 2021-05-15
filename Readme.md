@@ -98,7 +98,9 @@ Some third-party included files may have different licenses - please check their
 
 *   **Developers:**
     *   [@XeRi-PL](https://github.com/XeRi-PL) (Founder/lead dev) - adamstefaniak57@gmail.com
-
+    *   [@Revox](https://github.com/revoxhere) (lead Dev) 
+    *   [@Oli2004](https://github.com/Oli2004) (Dev) 
+    *   [@Techiq4](https://github.com/Techniq4) (Dev) 
 
 
 - 👋 Hi, I’m @XeRi-PL
