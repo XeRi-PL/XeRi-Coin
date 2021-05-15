@@ -6,7 +6,7 @@
 
 void setup() {
   Serial.begin(115200); // Start serial connection
-  Serial.println("\nXeRi-Coin ESP8266 Miner Beta v1.2");
+  Serial.println("\nXeRi-Coin ESP8266 Miner v1.2");
 
   delay(rand() % 1000); // delay up to 1sec to stagger start-ups
   pinMode(LED_BUILTIN, OUTPUT); // prepare for blink() function
