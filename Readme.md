@@ -1,8 +1,10 @@
 
 <p align = "center">
   <a href="https://adamstefaniak57.wixsite.com/xeri-avr-mining?lang=en">
-    <img width="600em" src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/GITHUB%20LOGO%20XERI%20COIN.png" />
+    <img width="500em" src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/GITHUB%20LOGO%20XERI%20COIN.png" />
   </a>
+  <a href="https://github.com/XeRi-PL/XeRi-Coin">
+    <img src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/187714053_2796812177246766_6584148206368478140_n.png" /></a>
 </p>
 
 <h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards, Raspberry Pis</h3>
