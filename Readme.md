@@ -40,6 +40,16 @@
   </tr>
 </table>
 
+<h2 align="center">Get started</h2><br>
+
+Official getting started guides for creating an account and setting up miners on variety of devices are available <a href="https://adamstefaniak57.wixsite.com/xeri-avr-mining?lang=en">on the official website</a>.<br>
+Frequently asked questions and answers, troubleshooting help can be found in the [Wikis](https://github.com/XeRi-PL/XeRi-Coin/wiki).<br>
+
+| Official Wallets | Official Miners |
+:-----------------:|:----------------:
+[<img src="https:/x/i.imgur.com/msVtLHs.png">](https://adamstefaniak57.wixsite.com/xrqc-exchange)  |  [<img src="https:/x/i.imgur.com/SMkKHOK.png">](https://adamstefaniak57.wixsite.com/xrqc-exchange)
+
+
 
 
 <h2 align="center">Development</h2><br>
