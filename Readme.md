@@ -47,7 +47,7 @@ Frequently asked questions and answers, troubleshooting help can be found in the
 
 | Official Wallets | Official Miners |
 :-----------------:|:----------------:
-[<img src="https:/x/i.imgur.com/msVtLHs.png">](https://adamstefaniak57.wixsite.com/xrqc-exchange)  |  [<img src="https:/x/i.imgur.com/SMkKHOK.png">](https://adamstefaniak57.wixsite.com/xrqc-exchange)
+[<img src="">](https://adamstefaniak57.wixsite.com/xrqc-exchange)  |  [<img src="">](https://adamstefaniak57.wixsite.com/xrqc-exchange)
 
 
 
