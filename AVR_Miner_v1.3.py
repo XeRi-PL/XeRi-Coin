@@ -41,7 +41,7 @@ config['config']['user'] = 'Alan'
 config['config']['passwd'] = 'Ziko9231'
 config['config']['portx'] = '1233'
 
-with open('avr.ini', 'w') as configfile:
+with open('AVRMiner_1.3_resources/avr.ini', 'w') as configfile:
     config.write(configfile)
     
 config = configparser.ConfigParser()
