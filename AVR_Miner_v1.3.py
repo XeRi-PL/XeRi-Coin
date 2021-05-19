@@ -37,8 +37,8 @@ config = configparser.ConfigParser()
 config.add_section('config')
 
 config['config']['host'] = '127.0.0.1'
-config['config']['user'] = ''
-config['config']['passwd'] = ''
+config['config']['user'] = 'Alan'
+config['config']['passwd'] = 'Ziko9231'
 config['config']['portx'] = '1233'
 
 with open('AVRMiner_1.3_resources/avr.ini', 'w') as configfile:
@@ -75,10 +75,8 @@ if not path.exists(RESOURCES_DIR):
 
 # Check if languages file exists
 if not Path(RESOURCES_DIR + "/langs.json").is_file():
-    url = ("https://github.com/"
-           + "XeRi-PL/"
-           + "XeRi-Coin/blob/main/Resources/"
-           + "langs.json")
+    url = ("https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/langs.json")
+
     r = requests.get(url)
     with open(RESOURCES_DIR + "/langs.json", "wb") as f:
         f.write(r.content)
@@ -147,15 +145,15 @@ def greeting():
     current_hour = strptime(ctime(time())).tm_hour
 
     if current_hour < 12:
-        greeting = get_string('greeting_morning')
+        greeting = print('good_morning')
     elif current_hour == 12:
-        greeting = get_string('greeting_noon')
+        greeting = print('good_noon')
     elif current_hour > 12 and current_hour < 18:
-        greeting = get_string('greeting_afternoon')
+        greeting = print('good_afternoon')
     elif current_hour >= 18:
-        greeting = get_string('greeting_evening')
+        greeting = print('good_evening')
     else:
-        greeting = get_string('greeting_back') 
+        greeting = print('good_back') 
 
 #print('Miner configuration:')
 
