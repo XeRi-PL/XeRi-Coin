@@ -45,7 +45,7 @@ with open('avr.ini', 'w') as configfile:
     config.write(configfile)
     
 config = configparser.ConfigParser()
-config.read('Resources/avr.ini')
+config.read('AVRMiner_1.3_resources/avr.ini')
 
 host = config['config']['host']
 user = config['config']['user']
