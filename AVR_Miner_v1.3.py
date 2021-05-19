@@ -37,8 +37,8 @@ config = configparser.ConfigParser()
 config.add_section('config')
 
 config['config']['host'] = '127.0.0.1'
-config['config']['user'] = 'Alan'
-config['config']['passwd'] = 'Ziko9231'
+config['config']['user'] = ''
+config['config']['passwd'] = ''
 config['config']['portx'] = '1233'
 
 with open('AVRMiner_1.3_resources/avr.ini', 'w') as configfile:
