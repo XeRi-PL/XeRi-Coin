@@ -38,7 +38,7 @@
       ⚡ Transaction time: Instant<br>
       🔢 Decimals: up to 20<br>
       🔤 Ticker: XRQC (XRQC)<br>
-      ⚒️ Algorithms: ??? +more planned<br>
+      ⚒️ Algorithms: SHA-1 +more planned<br>
       ♐ Rewards: supported by "XeRi system" helping to reward miners fairly<br>
     </td>
   </tr>
@@ -82,7 +82,7 @@ Some third-party included files may have different licenses - please check their
 
 
 1. XeRi-Coins ("XRQC's") are earned by miners with a process called mining.<br/>
-2. Mining is described as using ???????? algorithm , in which finding a correct result to a mathematical problem gives the miner a reward.<br/>
+2. Mining is described as using SHA-1 algorithm , in which finding a correct result to a mathematical problem gives the miner a reward.<br/>
 3. Mining can be officially done using CPUs, AVR boards (e.g. Arduino boards), Single-board computers (e.g. Raspberry Pi boards), ESP32/8266 boards with the usage of official miners (other officially allowed miners are described in the upper part of README).<br/>
 4. Mining on GPUs, FPGAs and other high-efficiency hardware is allowed, but using only the `EXTREME` mining difficulty.<br/>
 5. Any users using miners on difficulty not suited for their hardware will be automatically throttled and/or blocked.<br/>
