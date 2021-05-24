@@ -5,7 +5,7 @@
   </a>
   <br>
   <a href="https://github.com/XeRi-PL/XeRi-Coin">
-    <img src="" /></a>
+    <img src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/release_0.1.3.png" /></a>
   </br>
 </p>
 
