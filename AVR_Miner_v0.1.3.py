@@ -1,5 +1,5 @@
 ##########################################
-# XeRi-Coin Python AVR Miner (v1.3)
+# XeRi-Coin Python AVR Miner (v0.1.3)
 # https://github.com/XeRi-PL/XeRi-Coin
 # Distributed under MIT license
 # © XeRi-Coin Community 2021
