@@ -128,7 +128,7 @@ Some third-party included files may have different licenses - please check their
 
 - XeRi-Coin - XRQC - project started in 12.04.2021 y.
 
-- This crypto created By XeRi-PL (Ziko9231 in Discord) and helpful people Thank's for help my friend's :) 
+- This crypto created By XeRi-PL (    Ziko9231 - Builder Mining Rig's#9766    in Discord) and helpful people Thank's for help my friend's :) 
 
 - XRQC is easy cryptocurrency. Project planned which fork Duino-Coin Library's - It's very helpful :)
 
