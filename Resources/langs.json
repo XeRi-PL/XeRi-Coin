@@ -5,5 +5,11 @@
         "ask_avrport": "Enter your board serial port (e.g. COM1 (Windows) or /dev/ttyUSB1 (Unix)): ",
         "ask_anotherport": "Do you want to add another board? (y/N): "
     }
+    "polish": {
+
+        "ports_notice": " Jeśli nie widzisz tutaj swojej płytki, upewnij się, że jest prawidłowo podłączona i program ma do niej dostęp (admin/sudo rights).",
+        "ask_avrport": " Wprowadź port szeregowy swojej płytki (e.g. COM1 (Windows) or /dev/ttyUSB1 (Unix)): ",
+        "ask_anotherport": " Chcesz dodać kolejną płytkę? (y/N): "
+    }
 
 }
