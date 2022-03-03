@@ -1,7 +1,7 @@
 {
-    "server":{
+    "server": {
         "amount": 0,
-        }
+        },
     
     "english": {
 
@@ -14,6 +14,6 @@
         "ports_notice": "Jeśli nie widzisz swojej płytki, upewnij się, że jest prawidłowo podłączona i program ma do niej dostęp (admin/sudo)",
         "ask_avrport": " * Wprowadź port szeregowy swojej płytki (COM (Windows) or /dev/ttyUSB1 (Unix)): ",
         "ask_anotherport": " * Chcesz dodać kolejną płytkę? (y/N): "
-    }
+    },
 
 }
