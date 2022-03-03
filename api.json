@@ -1,8 +1,16 @@
 {
   "amount": 0.0,
-  "url": "",
-  "price": {
-        "amount": "0.0",
-        "id": 1234,
-  }
+  
+  "User":{
+    
+    "Alan":{
+      "mined": 0.0,
+    },
+    
+    "Dawid":{
+       "mined": 0.0,
+  
+  },
+ 
+  },
 }
