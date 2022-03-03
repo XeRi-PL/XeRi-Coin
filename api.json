@@ -1,10 +1,8 @@
 {
-  
-  "english":{
-      "url": "",
-      "price": {
+  "amount": "0.0",
+  "url": "",
+  "price": {
         "amount": "0.0",
         "id": 1234,
-    }
   }
 }
