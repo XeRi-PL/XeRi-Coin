@@ -1,6 +1,6 @@
 {
     
-    "amount": 0.0,
+    "amount": 0,
     "english": {
 
         "ports_notice": "If you can't see your board, make sure the it is properly connected and the program has access to it (admin/sudo)",
