@@ -18,29 +18,29 @@
 
 <table align="center">
   <tr>
-    <th>Key features</th>
-    <th>Technical specifications</th>
+    <th>features</th>
+    <th>Technical</th>
   </tr>
   <tr>
     <td>
-      💻 Supported by a large number of platforms<br>
-      👥 A friendly & growing community<br>
-      💱 Easy to use & exchange<br>
-      🌎 Available everywhere<br>
-      :new: Fully original project<br>
-      :blush: Beginner-friendly<br>
-      💰 Cost-effective<br>
-      ⛏️ Easy to mine<br>
-      📚 Open-source<br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
     </td>
     <td>
-      ♾️ Coin supply: Infinite (April 2021: 1k coins)<br>
-      😎 Premine: <5k blocks (<500 coins)<br>
-      ⚡ Transaction time: Instant<br>
-      🔢 Decimals: up to 20<br>
-      🔤 Ticker: XRQC (XRQC)<br>
-      ⚒️ Algorithms: SHA-1 +more planned<br>
-      ♐ Rewards: supported by "XeRi system" helping to reward miners fairly<br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
     </td>
   </tr>
 </table>
