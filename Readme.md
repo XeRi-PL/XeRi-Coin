@@ -1,7 +1,7 @@
 
 <p align = "center">
-  <a href="https://adamstefaniak57.wixsite.com/xeri-avr-mining?lang=en">
-    <img width="500em" src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/GITHUB%20LOGO%20XERI%20COIN.png" />
+  <a href="">
+    <img width="500em" src="" />
   </a>
   <br>
   <a href="https://github.com/XeRi-PL/XeRi-Coin">
