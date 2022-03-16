@@ -80,14 +80,14 @@ How to help?
 
 
 1. XeRi-Coins ("XRQC's") are earned by miners with a process called mining.<br/>
-2. Mining is described as using SHA-1 algorithm , in which finding a correct result to a mathematical problem gives the miner a reward.<br/>
-3. Mining can be officially done using CPUs, AVR boards (e.g. Arduino boards), Single-board computers (e.g. Raspberry Pi boards), ESP32/8266 boards with the usage of official miners (other officially allowed miners are described in the upper part of README).<br/>
+2. Mining is described as using MD5 algorithm , in which finding a correct result to a mathematical problem gives the miner a reward.<br/>
+3. Mining can be officially done using CPUs, AVR boards (e.g. Arduino boards), ESP32/8266 boards with the usage of official miners (other officially allowed miners are described in the upper part of README).<br/>
 
 <h4 align="center">Privacy policy</h2><br>
 
 
-1. On the master server we only store usernames, hashed passwords (with the help of bcrypt) and e-mails of users as their account data.<br/>
-2. E-mails are not publicly available and are only used for contacting user when needed, confirming exchanges on the XRQC-Exchange and receiving an occasional newsletter (planned for the future).<br/>
+1. On the master server we only store usernames, hashed passwords and e-mails of users as their account data.<br/>
+2. E-mails are not publicly available and are only used for contacting user when needed.<br/>
 3. Balances, transactions and mining-related data is publicly available in the public</a>.<br/>
 4. The privacy policy may be changed in the future with a prior notification.
 
