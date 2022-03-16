@@ -12,7 +12,7 @@
 <h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards, Raspberry Pis</h3>
 <h4 align="center">including smartphones...</h4>
 <h5 align="center">..............................................</h5>
-<h6 align="center">README Forked by Duino - Coin</h6><br />
+<h6 align="center"></h6><br />
 
 
 
