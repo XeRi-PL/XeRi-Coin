@@ -74,10 +74,7 @@ How to help?
 <h2 align="center">Get started</h2><br>
 
 
-<h2 align="center">License</h2><br>
-
-XeRi-Coin is mostly distributed under the MIT License. See `LICENSE` file for more information.
-Some third-party included files may have different licenses - please check their `LICENSE` statements (usually at the top of the source code files).
+0000
 
 <h2 align="center">Terms of service</h2><br>
 
