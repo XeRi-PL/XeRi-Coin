@@ -8,7 +8,7 @@
     <img src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/release_0.1.3.png" /></a>
   </br>
 </p>
-<br>
+
 <h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards , NVIDIA GPU'S !</h3>
 <h4 align="center">SOON ....</h4>
 <h5 align="center">..............................................</h5>
