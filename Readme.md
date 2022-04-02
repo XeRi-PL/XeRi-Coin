@@ -18,13 +18,13 @@
 
 <table align="center">
   <tr>
-    <th>features</th>
-    <th>Technical</th>
+    <th>Device :</th>
+    <th>Hashrate : </th>
   </tr>
   <tr>
     <td>
-      <br>
-      <br>
+      <br> GPU : NVS 510 2GB </br>
+      <br> GPU : GTX 770 OC WINDFORCE 2GB </br>
       <br>
       <br>
       <br>
@@ -34,8 +34,8 @@
       <br>
     </td>
     <td>
-      <br>
-      <br>
+      <br> 8 MH/s </br>
+      <br> 83 MH/s </br>
       <br>
       <br>
       <br>
