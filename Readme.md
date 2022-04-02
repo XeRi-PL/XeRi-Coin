@@ -24,8 +24,8 @@
   </tr>
   <tr>
     <td>
-      <br>GPU :NVIDIA NVS 510 2GB 
-      <br>GPU :NVIDIA GTX 770 OC WINDFORCE 2GB
+      <br>GPU : NVIDIA NVS 510 2GB 
+      <br>GPU : NVIDIA GTX 770 OC WINDFORCE 2GB
     </td>
     <td>
       <br>8 MH/s 
