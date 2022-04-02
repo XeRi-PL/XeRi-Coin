@@ -14,13 +14,7 @@
 <h5 align="center">..............................................</h5>
 <h2 align="center"> [ Miner GPU - Supoort ONLY GPU'S serving OpenCL 3.0 !!!! ] </h2>
 <h2 align="center"></h2>
-<h2 align="center"></h2>
-<h2 align="center"></h2>
-<h2 align="center"></h2>
 <h2 align="center"> PRICE : ( Variable pair ) - BTC/XERICOIN ≈ 0.0001 $ </h2>
-<h6 align="center"></h6>
-
-
 
 <table align="center">
   <tr>
