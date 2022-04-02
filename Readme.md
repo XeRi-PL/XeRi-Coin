@@ -19,15 +19,25 @@
   <tr>
     <th>Device :</th>
     <th>Hashrate : </th>
+    <th>Platform : </th>
+    <th>Power Consumption : </th>
   </tr>
   <tr>
     <td>
-      <br> GPU : NVS 510 2GB 
-      <br> GPU : GTX 770 OC WINDFORCE 2GB
+      <br>GPU : NVS 510 2GB 
+      <br>GPU : GTX 770 OC WINDFORCE 2GB
     </td>
     <td>
-      <br> 8 MH/s 
-      <br> 83 MH/s
+      <br>8 MH/s 
+      <br>83 MH/s
+    </td>
+    <td>
+      <br>Windows 11 Pro x64 
+      <br>Windows 11 Pro x64 
+    </td>
+    <td>
+      <br>idk? ≈20 W
+      <br>idk? ≈120 W
     </td>
   </tr>
 </table>
