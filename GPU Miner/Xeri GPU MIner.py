@@ -4,7 +4,6 @@ from re import I
 import socket
 import sys
 import time
-
 from GPUtil.GPUtil import GPU
 import colorama
 import threading
@@ -16,16 +15,12 @@ from Library.opencl_information import opencl_information
 from collections import deque
 from colorama import Fore, Back, Style
 from tabulate import tabulate
-
 from os import name as osname
 from pathlib import Path
-
 from time import sleep
-
 
 colorama.init()
 gpus = GPUtil.getGPUs()
-
 debug = 0
 goodshares = int(0)
 badshares = int(0)
@@ -41,8 +36,8 @@ client.connect(('127.0.0.1',1233))
 def now():
     return datetime.now()
  
-def sha1(opencl_algo, ctx, last_hash, expected_hash, start, end, max_batch_size = 2):
-    clresult=opencl_algo.cl_sha1(ctx,last_hash,expected_hash,start,end,max_batch_size)
+def sha1(opencl_algo, ctx, last_hash, next_hash, start, end, max_batch_size = 2):
+    clresult=opencl_algo.cl_sha1(ctx,last_hash,next_hash,start,end,max_batch_size)
 
     return(clresult)
 
@@ -65,13 +60,10 @@ def mine(ctx, opencl_algos):
                 uwux = uwux + 0.000000066
                 job = client.recv(512).decode('utf-8')
                 job = job.split(',')
-
-                #goodshares = goodshares + 1
                 last_hash = str(job[0]).encode('utf-8')
                 next_hash = str(job[1]).encode('utf-8')
 
                 if job == None :
-
                     badshares = badshares + 0
                 else:
                     goodshares = goodshares + 1
@@ -83,29 +75,22 @@ def mine(ctx, opencl_algos):
                 print('Error : ' + str(e))
 
             xerix = sha1(opencl_algos, ctx, last_hash, next_hash, 0, real_difficulty, 1000)
-                
             sleep(0.01)
-            
             hashingStopTime = time.time()
             hashingTime = (hashingStopTime - hashingStartTime) + 0.001
-                
             hashrate = real_difficulty / hashingTime
-            
             worked = hashrate / 6_000_000 + uwux
 #-----------------------------------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------------------------------
 def stats():
     global worked , username
     try:
-        
         while True:
 
             xdc = (str(username)+ "," + str(worked))
             client.send(xdc.encode('utf-8'))
-            
-            #sleep(2)
             time.sleep(1)
-
+            
     except Exception as e:
                 print('Error send : ' + str(e))
 
@@ -114,23 +99,20 @@ def clear():
 
 def main(argv):
     global uwux , worked, actual_block, job , username
-
     clear()
-    
-    clear()
+   
     info=opencl_information()
     info.printplatforms()
     print("This is tested in your PC , oflline. Worked in GPU support -OpenCl 3.0- !!!!!")
 
-    username = input('Write your name : ')
+    username = input('Write your nick : ')
     try:
-        gpu1 = input("Select which platform to mine at: ")
+        gpu1 = input("Select which platform to mining: ")
         while True:
             #platform = input("Select which platform to mine at: ")
             gpu2 = input("Want to add another platform too?(y/n): ")
             if gpu2 == "y":
-                gpu2 = input("Select which platform to mine at: ")
-
+                gpu2 = input("Select which platform to mining: ")
                 zxc = opencl.opencl_algos(0, debug, True,inv_memory_density=50,openclDevice=int(gpu2))
                 ert = zxc.cl_sha1_init()
                 hread2 = threading.Thread(target=mine, args=(ert, zxc))
@@ -142,12 +124,9 @@ def main(argv):
         sleep(1)
         
     asd = opencl.opencl_algos(0, debug, True,inv_memory_density=10,openclDevice=int(gpu1))
-
     ctx = asd.cl_sha1_init()
-
     thread = threading.Thread(target=stats)
     thread.start()
-
     hread = threading.Thread(target=mine, args=(ctx, asd))
     hread.start()
     sleep(1)
@@ -163,14 +142,8 @@ def main(argv):
                 gpu_load = gpu.load*100
                 gpu_used_memory = gpu.memoryUsed
                 gpu_temperature = gpu.temperature
-                list_gpus.append((
-                    gpu_name, gpu_load,gpu_used_memory,
-                    gpu_temperature
-                ))
-
-
+                list_gpus.append((gpu_name, gpu_load,gpu_used_memory,gpu_temperature))
                 actual_block = "123456789012" 
-
                 sleep(5)
                 uwux = uwux - 0.000000005
 
