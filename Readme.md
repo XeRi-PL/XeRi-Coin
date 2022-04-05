@@ -147,12 +147,6 @@ How to help?
 *   Make sure everything works as intended
 *   Open a pull request
 
-
-<h2 align="center">Get started</h2><br>
-
-
-0000
-
 <h2 align="center">Terms of service</h2><br>
 
 
@@ -161,7 +155,6 @@ How to help?
 3. Mining can be officially done using CPUs, AVR boards (e.g. Arduino boards), ESP32/8266 boards with the usage of official miners (other officially allowed miners are described in the upper part of README).<br/>
 
 <h4 align="center">Privacy policy</h2><br>
-
 
 1. On the master server we only store usernames, hashed passwords and e-mails of users as their account data.<br/>
 2. E-mails are not publicly available and are only used for contacting user when needed.<br/>
