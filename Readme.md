@@ -178,15 +178,6 @@ How to help?
 *   **Developers:**
     *   [@XeRi-PL](https://github.com/XeRi-PL) (Founder/lead dev) - adamstefaniak57@gmail.com
 
-
-- 👋 Hi, I’m @XeRi-PL
-- 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on future
-- 📫 How to reach me ...
-
-:)
-
 - XeRi-Coin - XRQC - project started in 12.04.2021 y.
 
 - This crypto created By XeRi-PL (    Ziko9231 - Builder Mining Rig's#9766    in Discord) and helpful people Thank's for help my friend's :) 
