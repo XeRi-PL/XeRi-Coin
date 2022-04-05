@@ -61,14 +61,14 @@
       <br>ESP 32 Lolin Wemos
     </td>
     <td>
-      <br> ? H/s (Propably 400 H/s)
-      <br> ? H/s (Propably 15 kH/s)
-      <br> ? H/s (Propably 60 kH/s)
+      <br>Propably 400 H/s
+      <br>Propably 15 kH/s
+      <br>Propably 60 kH/s
     </td>
     <td>
-      <br>Windows 11 Pro x64 
-      <br>Windows 11 Pro x64
-      <br>Windows 11 Pro x64 
+      <br>Windows 11
+      <br>Windows 11
+      <br>Windows 11
     </td>
     <td>
       <br> 0,100 W MAX
