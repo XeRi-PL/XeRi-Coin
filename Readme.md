@@ -35,7 +35,7 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>Infinity XeriCoin
     </td>
     <td>
-      <br> 4.7 $ ( 20 PLN ) / month , (10 000 XeriCoin)
+      <br> 4.7 $ ( 20 PLN ) / month , (47 000 XeriCoin)
     </td>
   </tr>
 </table>
