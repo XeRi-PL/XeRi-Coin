@@ -23,7 +23,7 @@ Price - XeriCoin / USD ≈ 0.0001 $
 ````
 </br>
 <h2 align="center">My exchange Market Cap :</h2><br>
-My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more money. In the future, My Stock Exchange will be bigger :D
+My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more money. In the future, My Stock Exchange will be bigger :D
 <br></br>
 <table align="center">
   <tr>
