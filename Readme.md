@@ -58,18 +58,18 @@
   </tr>
   <tr>
     <td>
+      <br>Attiny 85
       <br>Arduino Nano v3
       <br>WAVGAT Nano v3
       <br>ESP 8266
       <br>ESP 32 Lolin Wemos
-      <br>Attiny 85
     </td>
     <td>
+      <br>Propably 200 H/s
       <br>Propably 400 H/s
       <br>Propably 600 H/s
       <br>Propably 15 kH/s
       <br>Propably 60 kH/s
-      <br>Propably 200 H/s
     </td>
     <td>
       <br>Windows 11
@@ -79,11 +79,11 @@
       <br>Windows 11
     </td>
     <td>
+      <br> 0.040 W MAX
       <br> 0,100 W MAX
       <br> 0,100 W MAX
       <br> 0,875 W MAX
       <br> 1.500 W MAX
-      <br> 0.040 W MAX
     </td>
     <td>
       <br>in tested now
@@ -112,17 +112,17 @@
     </td>
     <td>
       <br>0,000000002051 BTC
+      <br>0,000094117647 DAI
       <br>0,000000252543 BCH
       <br>0,001345582620 TRX
       <br>0,000585142643 DOGE
-      <br>0,000094117647 DAI
     </td>
     <td>
       <br>50 000 XeriCoin ( 5.0 $ )
+      <br>10 000 XeriCoin ( 1.0 $ )
       <br>6 000 XeriCoin ( 0.6 $ )
       <br>5 000 XeriCoin ( 0.5 $ )
       <br>5 000 XeriCoin ( 0.5 $ )
-      <br>10 000 XeriCoin ( 1.0 $ )
     </td>
     <td>
       <br>idk at now time
