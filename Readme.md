@@ -13,8 +13,14 @@
 
 <h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards , NVIDIA GPU'S !</h3>
 <h2 align="center">Info : </h2>
-<h3 align="center">Miner GPU - Support ONLY GPU'S serving OpenCL 3.0 !!!!</h3>
-<h3 align="center">Price - XeriCoin / USD ≈ 0.0001 $</h3>
+
+
+
+
+```BASH
+Miner GPU - Support ONLY GPU serving OpenCL 3.0 !!!!
+Price - XeriCoin / USD ≈ 0.0001 $
+````
 </br>
 <h2 align="center">My exchange will deliver :</h2><br>
 My exchange delivery just 70 XeriCoin's at month because i don't have more money. In the future, My Stock will be bigger :D
