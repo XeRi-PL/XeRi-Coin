@@ -177,7 +177,7 @@ How to help?
 
 *   **Developers:**
     *   [@XeRi-PL](https://github.com/XeRi-PL) (Founder/lead dev) - adamstefaniak57@gmail.com
-<h2 align="center">ABOUT</h2><br>
+<h2 align="center">About project : </h2><br>
 
 - XeRi-Coin - XRQC - project started in 12.04.2021 y.
 
