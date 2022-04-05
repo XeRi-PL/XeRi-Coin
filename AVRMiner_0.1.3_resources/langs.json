@@ -1,9 +1,0 @@
-{
-    "english": {
-
-        "ports_notice": "If you can't see your board here, make sure the it is properly connected and the program has access to it (admin/sudo rights).",
-        "ask_avrport": "Enter your board serial port (e.g. COM1 (Windows) or /dev/ttyUSB1 (Unix)): ",
-        "ask_anotherport": "Do you want to add another board? (y/N): "
-    }
-
-}
