@@ -128,7 +128,6 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
   </tr>
   <tr>
     <td>
-      <br>BTC
       <br>DAI
       <br>BCH
       <br>DOGE
@@ -136,7 +135,6 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>EOS
     </td>
     <td>
-      <br>50 000 XeriCoin
       <br>10 000 XeriCoin
       <br>50 000 XeriCoin
       <br>10 000 XeriCoin
@@ -144,7 +142,6 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>20 000 XeriCoin
     </td>
     <td>
-      <br> ≈ 0,50 $
       <br> ≈ 0,15 $
       <br> ≈ 0,50 $
       <br> ≈ 0,10 $
