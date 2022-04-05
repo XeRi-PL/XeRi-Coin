@@ -53,16 +53,20 @@
     <td>
       <br> 1 XeriCoin is : 
       <br> 1 XeriCoin is : 
+      <br> 1 XeriCoin is : 
     </td>
     <td>
       <br>0,000000002051 BTC
       <br>0,000000252543 BCH
+      <br>0,001345582620 TRX
     </td>
     <td>
+      <br>10 000 XeriCoin
+      <br>6 000 XeriCoin
       <br>5 000 XeriCoin
-      <br>1 000 XeriCoin
     </td>
     <td>
+      <br>idk at now time
       <br>idk at now time
       <br>idk at now time
     </td>
