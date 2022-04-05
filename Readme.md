@@ -21,6 +21,7 @@
     <th>Hashrate : </th>
     <th>Platform : </th>
     <th>Power Consumption : </th>
+    <th>Profit at 24h : </th>
   </tr>
   <tr>
     <td>
@@ -39,6 +40,10 @@
       <br>idk? ≈20 W
       <br>idk? ≈120 W
     </td>
+    <td>
+      <br>in tested now
+      <br>in tested now
+    </td>
   </tr>
 </table>
 <table align="center">
@@ -47,6 +52,7 @@
     <th>Hashrate : </th>
     <th>Platform : </th>
     <th>Power Consumption : </th>
+    <th>Profit at 24h : </th>
   </tr>
   <tr>
     <td>
@@ -69,6 +75,10 @@
       <br> 0,875 W MAX
       <br> 1.500 W MAX
     </td>
+    <td>
+      <br>in tested now
+      <br>in tested now
+    </td>
   </tr>
 </table>
 
@@ -78,6 +88,7 @@
     <th>Too Other Coin : </th>
     <th>Minimum amount to exchange : </th>
     <th>Fee : </th>
+    <th>Profit at 24h : </th>
   </tr>
   <tr>
     <td>
@@ -99,6 +110,10 @@
       <br>idk at now time
       <br>idk at now time
       <br>idk at now time
+    </td>
+    <td>
+      <br>in tested now
+      <br>in tested now
     </td>
   </tr>
 </table>
