@@ -89,10 +89,10 @@
     <th>Too Other Coin : </th>
     <th>Minimum amount to exchange : </th>
     <th>Fee : </th>
-    <th>Profit at 24h : </th>
   </tr>
   <tr>
     <td>
+      <br> 1 XeriCoin is : 
       <br> 1 XeriCoin is : 
       <br> 1 XeriCoin is : 
       <br> 1 XeriCoin is : 
@@ -101,21 +101,19 @@
       <br>0,000000002051 BTC
       <br>0,000000252543 BCH
       <br>0,001345582620 TRX
+      <br>0,000585142643 DOGE
     </td>
     <td>
       <br>50 000 XeriCoin ( 5.0 $ )
       <br>6 000 XeriCoin ( 0.6 $ )
+      <br>5 000 XeriCoin ( 0.5 $ )
       <br>5 000 XeriCoin ( 0.5 $ )
     </td>
     <td>
       <br>idk at now time
       <br>idk at now time
       <br>idk at now time
-    </td>
-    <td>
-      <br>in tested now
-      <br>in tested now
-      <br>in tested now
+      <br>idk at now time
     </td>
   </tr>
 </table>
