@@ -62,12 +62,12 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>Windows 11 
     </td>
     <td>
-      <br>≈ 250 XeriCoin
-      <br>≈ 750 XeriCoin
+      <br>≈ 125 XeriCoin
+      <br>≈ 375 XeriCoin
     </td>
     <td>
-      <br>≈ 7 500 XeriCoin
-      <br>≈ 22 500 XeriCoin
+      <br>≈ 3750 XeriCoin
+      <br>≈ 11 250 XeriCoin
     </td>
   </tr>
 </table>
@@ -103,18 +103,18 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>Windows 11
     </td>
     <td>
-      <br>≈ 2 XeriCoin
-      <br>≈ 6 XeriCoin
-      <br>≈ 6 XeriCoin
-      <br>≈ 26 XeriCoin
-      <br>≈ 50 XeriCoin
+      <br>≈ 1 XeriCoin
+      <br>≈ 3 XeriCoin
+      <br>≈ 3 XeriCoin
+      <br>≈ 13 XeriCoin
+      <br>≈ 25 XeriCoin
     </td>
     <td>
-      <br>≈ 60 XeriCoin
-      <br>≈ 180 XeriCoin
-      <br>≈ 180 XeriCoin
-      <br>≈ 800 XeriCoin
-      <br>≈ 1500 XeriCoin
+      <br>≈ 30 XeriCoin
+      <br>≈ 90 XeriCoin
+      <br>≈ 90 XeriCoin
+      <br>≈ 400 XeriCoin
+      <br>≈ 750 XeriCoin
     </td>
     </td>
   </tr>
