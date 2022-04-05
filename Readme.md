@@ -62,12 +62,12 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>Windows 11 
     </td>
     <td>
-      <br>≈ 90 XeriCoin
-      <br>≈ 333 XeriCoin
+      <br>≈ 250 XeriCoin
+      <br>≈ 750 XeriCoin
     </td>
     <td>
-      <br>≈ 2 700 XeriCoin
-      <br>≈ 10 000 XeriCoin
+      <br>≈ 7 500 XeriCoin
+      <br>≈ 22 500 XeriCoin
     </td>
   </tr>
 </table>
@@ -89,11 +89,11 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>ESP 32 Lolin Wemos
     </td>
     <td>
-      <br>≈ 200 H/s
-      <br>≈ 400 H/s
-      <br>≈ 600 H/s
-      <br>≈ 15 kH/s
-      <br>≈ 60 kH/s
+      <br>≈ 100 H/s
+      <br>≈ 300 H/s
+      <br>≈ 300 H/s
+      <br>≈ 40 kH/s
+      <br>≈ 100 kH/s
     </td>
     <td>
       <br>Windows 11
@@ -103,18 +103,18 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>Windows 11
     </td>
     <td>
-      <br>≈ 1 XeriCoin
-      <br>≈ 5 XeriCoin
-      <br>≈ 8 XeriCoin
-      <br>≈ 10 XeriCoin
-      <br>≈ 15 XeriCoin
+      <br>≈ 2 XeriCoin
+      <br>≈ 6 XeriCoin
+      <br>≈ 6 XeriCoin
+      <br>≈ 26 XeriCoin
+      <br>≈ 50 XeriCoin
     </td>
     <td>
-      <br>≈ 30 XeriCoin
-      <br>≈ 150 XeriCoin
-      <br>≈ 240 XeriCoin
-      <br>≈ 300 XeriCoin
-      <br>≈ 450 XeriCoin
+      <br>≈ 60 XeriCoin
+      <br>≈ 180 XeriCoin
+      <br>≈ 180 XeriCoin
+      <br>≈ 800 XeriCoin
+      <br>≈ 1500 XeriCoin
     </td>
     </td>
   </tr>
@@ -135,16 +135,16 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>EOS
     </td>
     <td>
-      <br>10 000 XeriCoin
-      <br>50 000 XeriCoin
-      <br>10 000 XeriCoin
+      <br>5 000 XeriCoin
       <br>20 000 XeriCoin
-      <br>20 000 XeriCoin
+      <br>5 000 XeriCoin
+      <br>15 000 XeriCoin
+      <br>15 000 XeriCoin
     </td>
     <td>
       <br> ≈ 0,15 $
       <br> ≈ 0,50 $
-      <br> ≈ 0,10 $
+      <br> ≈ 1.44 DOGE
       <br> ≈ 0,15 $
       <br> ≈ 0,15 $
     </td>
