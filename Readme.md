@@ -89,11 +89,11 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>ESP 32 Lolin Wemos
     </td>
     <td>
-      <br>probably 200 H/s
-      <br>probably 400 H/s
-      <br>probably 600 H/s
-      <br>probably 15 kH/s
-      <br>probably 60 kH/s
+      <br>≈ 200 H/s
+      <br>≈ 400 H/s
+      <br>≈y 600 H/s
+      <br>≈ 15 kH/s
+      <br>≈ 60 kH/s
     </td>
     <td>
       <br>Windows 11
@@ -144,12 +144,12 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>20 000 XeriCoin
     </td>
     <td>
-      <br> propably 0,50 $
-      <br> propably 0,15 $
-      <br> propably 0,50 $
-      <br> propably 0,10 $
-      <br> propably 0,15 $
-      <br> propably 0,15 $
+      <br> ≈ 0,50 $
+      <br> ≈ 0,15 $
+      <br> ≈ 0,50 $
+      <br> ≈ 0,10 $
+      <br> ≈ 0,15 $
+      <br> ≈ 0,15 $
     </td>
   </tr>
 </table>
