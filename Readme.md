@@ -140,16 +140,16 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>10 000 XeriCoin
       <br>50 000 XeriCoin
       <br>10 000 XeriCoin
-      <br>10 000 XeriCoin
-      <br>10 000 XeriCoin
+      <br>20 000 XeriCoin
+      <br>20 000 XeriCoin
     </td>
     <td>
       <br> propably 0,50 $
       <br> propably 0,15 $
       <br> propably 0,50 $
       <br> propably 0,10 $
-      <br> propably 0,10 $
-      <br> propably 0,10 $
+      <br> propably 0,15 $
+      <br> propably 0,15 $
     </td>
   </tr>
 </table>
