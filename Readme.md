@@ -57,25 +57,35 @@
   <tr>
     <td>
       <br>Arduino Nano v3
+      <br>WAVGAT Nano v3
       <br>ESP 8266
       <br>ESP 32 Lolin Wemos
+      <br>Attiny 85
     </td>
     <td>
       <br>Propably 400 H/s
+      <br>Propably 600 H/s
       <br>Propably 15 kH/s
       <br>Propably 60 kH/s
+      <br>Propably 200 H/s
     </td>
     <td>
+      <br>Windows 11
+      <br>Windows 11
       <br>Windows 11
       <br>Windows 11
       <br>Windows 11
     </td>
     <td>
       <br> 0,100 W MAX
+      <br> 0,100 W MAX
       <br> 0,875 W MAX
       <br> 1.500 W MAX
+      <br> 0.040 W MAX
     </td>
     <td>
+      <br>in tested now
+      <br>in tested now
       <br>in tested now
       <br>in tested now
       <br>in tested now
