@@ -125,11 +125,11 @@
       <br>5 000 XeriCoin ( ≈ 0.5 $ )
     </td>
     <td>
-      <br>idk at now time
-      <br>idk at now time
-      <br>idk at now time
-      <br>idk at now time
-      <br>idk at now time
+      <br> propably 0,40 $
+      <br> propably 0,10 $
+      <br> propably 0,08 $
+      <br> propably 0,06 $
+      <br> propably 0,06 $
     </td>
   </tr>
 </table>
