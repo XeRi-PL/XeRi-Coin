@@ -122,39 +122,34 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
 <h2 align="center">EXCHANGE :</h2><br>
 <table align="center">
   <tr>
-    <th>Amount: </th>
-    <th>Too Other Coin : </th>
+    <th>To Coin : </th>
     <th>Minimum to exchange : </th>
     <th>Fee : </th>
   </tr>
   <tr>
     <td>
-      <br> 1 XeriCoin is : 
-      <br> 1 XeriCoin is : 
-      <br> 1 XeriCoin is : 
-      <br> 1 XeriCoin is : 
-      <br> 1 XeriCoin is : 
+      <br>BTC
+      <br>DAI
+      <br>BCH
+      <br>DOGE
+      <br>SUSHI
+      <br>EOS
     </td>
     <td>
-      <br>0,000000002 BTC
-      <br>0,0001 DAI
-      <br>0,00000024 BCH
-      <br>0,0013 TRX
-      <br>0,00058 DOGE
-    </td>
-    <td>
-      <br>50 000 XeriCoin ( ≈ 5.0 $ )
-      <br>10 000 XeriCoin ( ≈ 1.0 $ )
-      <br>50 000 XeriCoin ( ≈ 5.0 $ )
-      <br>5 000 XeriCoin ( ≈ 0.5 $ )
-      <br>5 000 XeriCoin ( ≈ 0.5 $ )
+      <br>50 000 XeriCoin
+      <br>10 000 XeriCoin
+      <br>50 000 XeriCoin
+      <br>10 000 XeriCoin
+      <br>10 000 XeriCoin
+      <br>10 000 XeriCoin
     </td>
     <td>
       <br> propably 0,50 $
       <br> propably 0,15 $
       <br> propably 0,50 $
-      <br> propably 0,07 $
-      <br> propably 0,07 $
+      <br> propably 0,10 $
+      <br> propably 0,10 $
+      <br> propably 0,10 $
     </td>
   </tr>
 </table>
