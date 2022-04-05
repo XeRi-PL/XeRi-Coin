@@ -23,7 +23,7 @@ Price - XeriCoin / USD ≈ 0.0001 $
 ````
 </br>
 <h2 align="center">My exchange Market Cap :</h2><br>
-My exchange delivery just 0,007$ at month because i don't have more money. In the future, My Stock Exchange will be bigger :D
+My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more money. In the future, My Stock Exchange will be bigger :D
 <br></br>
 <table align="center">
   <tr>
@@ -35,7 +35,7 @@ My exchange delivery just 0,007$ at month because i don't have more money. In th
       <br>Infinity XeriCoin
     </td>
     <td>
-      <br> 0,007 $ / month
+      <br> 1.0 $ ( 4,26 PLN ) / month , (10 000 XeriCoin)
     </td>
   </tr>
 </table>
