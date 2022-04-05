@@ -22,8 +22,8 @@ My exchange delivery just 70 XeriCoin's at month because i don't have more money
 <br></br>
 <table align="center">
   <tr>
-    <th>Stock exchange trading :</th>
-    <th>At in $ :</th>
+    <th>Stock exchange trading subsidy :</th>
+    <th>Subsidy in $ :</th>
   </tr>
   <tr>
     <td>
