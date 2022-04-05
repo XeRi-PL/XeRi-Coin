@@ -22,7 +22,6 @@
     <th>GPU Device :</th>
     <th>Hashrate : </th>
     <th>Platform : </th>
-    <th>Power Cons. : </th>
     <th>Profit at 24h : </th>
     <th>Profit at 30day's: </th>
   </tr>
@@ -40,10 +39,6 @@
       <br>Windows 11 
     </td>
     <td>
-      <br>maybe 20 W
-      <br>maybe 100 W
-    </td>
-    <td>
       <br>≈ 90 XeriCoin
       <br>≈ 333 XeriCoin
     </td>
@@ -58,7 +53,6 @@
     <th>AVR/ESP Device :</th>
     <th>Hashrate : </th>
     <th>Platform : </th>
-    <th>Power Cons. : </th>
     <th>Profit at 24h : </th>
     <th>Profit at 30day's: </th>
   </tr>
@@ -83,13 +77,6 @@
       <br>Windows 11
       <br>Windows 11
       <br>Windows 11
-    </td>
-    <td>
-      <br> 0.040 W MAX
-      <br> 0,100 W MAX
-      <br> 0,100 W MAX
-      <br> 0,875 W MAX
-      <br> 1.500 W MAX
     </td>
     <td>
       <br>≈ 1 XeriCoin
