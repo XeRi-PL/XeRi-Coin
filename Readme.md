@@ -17,6 +17,24 @@
 <h3 align="center">Miner GPU - Support ONLY GPU'S serving OpenCL 3.0 !!!!</h3>
 <h3 align="center">Price - XeriCoin / USD ≈ 0.0001 $</h3>
 </br>
+<h2 align="center">My exchange will deliver :</h2><br>
+My exchange delivery just 70 XeriCoin's at month because i don't have more money. In the future, My Stock will be bigger :D
+<br></br>
+<table align="center">
+  <tr>
+    <th>Stock exchange trading :</th>
+    <th>At in $ :</th>
+  </tr>
+  <tr>
+    <td>
+      <br>70 XeriCoin / month
+    </td>
+    <td>
+      <br> 0,007 $ / month
+    </td>
+  </tr>
+</table>
+<h2 align="center">GPU Profit Mining :</h2><br>
 <table align="center">
   <tr>
     <th>GPU Device :</th>
@@ -48,6 +66,7 @@
     </td>
   </tr>
 </table>
+<h2 align="center">AVR/ESP Profit Mining :</h2><br>
 <table align="center">
   <tr>
     <th>AVR/ESP Device :</th>
@@ -95,7 +114,7 @@
     </td>
   </tr>
 </table>
-
+<h2 align="center">EXCHANGE :</h2><br>
 <table align="center">
   <tr>
     <th>Amount: </th>
