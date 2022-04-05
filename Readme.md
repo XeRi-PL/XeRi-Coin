@@ -61,10 +61,11 @@
     </td>
     <td>
       <br>Windows 11 Pro x64 
+      <br>Windows 11 Pro x64
       <br>Windows 11 Pro x64 
     </td>
     <td>
-      <br>
+      <br> 0,100 W MAX
       <br> 0,875 W MAX
       <br> 1.500 W MAX
     </td>
