@@ -26,15 +26,15 @@
   <tr>
     <td>
       <br>GPU : NVIDIA NVS 510 2GB 
-      <br>GPU : NVIDIA GTX 770 OC WINDFORCE 2GB
+      <br>GPU : NVIDIA GTX 770 2GB
     </td>
     <td>
       <br>8 MH/s 
       <br>83 MH/s
     </td>
     <td>
-      <br>Windows 11 Pro x64 
-      <br>Windows 11 Pro x64 
+      <br>Windows 11
+      <br>Windows 11 
     </td>
     <td>
       <br>idk? ≈20 W
