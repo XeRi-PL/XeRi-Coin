@@ -118,11 +118,11 @@
       <br>0,000585142643 DOGE
     </td>
     <td>
-      <br>50 000 XeriCoin ( 4.6 $ )
-      <br>10 000 XeriCoin ( 1.0 $ )
-      <br>6 000 XeriCoin ( 0.6 $ )
-      <br>5 000 XeriCoin ( 0.5 $ )
-      <br>5 000 XeriCoin ( 0.5 $ )
+      <br>50 000 XeriCoin ( ≈ 5.0 $ )
+      <br>10 000 XeriCoin ( ≈ 1.0 $ )
+      <br>6 000 XeriCoin ( ≈ 0.6 $ )
+      <br>5 000 XeriCoin ( ≈ 0.5 $ )
+      <br>5 000 XeriCoin ( ≈ 0.5 $ )
     </td>
     <td>
       <br>idk at now time
