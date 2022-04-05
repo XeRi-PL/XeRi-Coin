@@ -22,8 +22,9 @@
     <th>GPU Device :</th>
     <th>Hashrate : </th>
     <th>Platform : </th>
-    <th>Power Consumption : </th>
+    <th>Power Cons. : </th>
     <th>Profit at 24h : </th>
+    <th>Profit at 30day's: </th>
   </tr>
   <tr>
     <td>
@@ -39,12 +40,16 @@
       <br>Windows 11 
     </td>
     <td>
-      <br>idk? ≈20 W
-      <br>idk? ≈120 W
+      <br>maybe 20 W
+      <br>maybe 100 W
     </td>
     <td>
-      <br> ? XeriCoin
-      <br> ? XeriCoin
+      <br>≈ 90 XeriCoin
+      <br>≈ 333 XeriCoin
+    </td>
+    <td>
+      <br>≈ 2 700 XeriCoin
+      <br>≈ 10 000 XeriCoin
     </td>
   </tr>
 </table>
@@ -53,8 +58,9 @@
     <th>AVR/ESP Device :</th>
     <th>Hashrate : </th>
     <th>Platform : </th>
-    <th>Power Consumption : </th>
+    <th>Power Cons. : </th>
     <th>Profit at 24h : </th>
+    <th>Profit at 30day's: </th>
   </tr>
   <tr>
     <td>
@@ -86,11 +92,19 @@
       <br> 1.500 W MAX
     </td>
     <td>
-      <br> ? XeriCoin
-      <br> ? XeriCoin
-      <br> ? XeriCoin
-      <br> ? XeriCoin
-      <br> ? XeriCoin
+      <br>≈ 1 XeriCoin
+      <br>≈ 5 XeriCoin
+      <br>≈ 8 XeriCoin
+      <br>≈ 10 XeriCoin
+      <br>≈ 15 XeriCoin
+    </td>
+    <td>
+      <br>≈ 30 XeriCoin
+      <br>≈ 150 XeriCoin
+      <br>≈ 240 XeriCoin
+      <br>≈ 300 XeriCoin
+      <br>≈ 450 XeriCoin
+    </td>
     </td>
   </tr>
 </table>
@@ -99,7 +113,7 @@
   <tr>
     <th>Amount: </th>
     <th>Too Other Coin : </th>
-    <th>Minimum amount to exchange : </th>
+    <th>Minimum to exchange : </th>
     <th>Fee : </th>
   </tr>
   <tr>
@@ -125,11 +139,11 @@
       <br>5 000 XeriCoin ( ≈ 0.5 $ )
     </td>
     <td>
-      <br> propably 0,40 $
+      <br> propably 0,50 $
+      <br> propably 0,15 $
       <br> propably 0,10 $
-      <br> propably 0,08 $
-      <br> propably 0,06 $
-      <br> propably 0,06 $
+      <br> propably 0,07 $
+      <br> propably 0,07 $
     </td>
   </tr>
 </table>
