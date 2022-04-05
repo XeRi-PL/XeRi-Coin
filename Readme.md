@@ -6,8 +6,6 @@
   <br>
   <a href="https://github.com/XeRi-PL/XeRi-Coin/releases/tag/0.1.3">
     <img src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/release_0.1.3.png" /></a>
-  </br>
-  <br>
   <a href="https://github.com/XeRi-PL/XeRi-Coin">
     <img src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/release_0.1.4.png" /></a>
   </br>
