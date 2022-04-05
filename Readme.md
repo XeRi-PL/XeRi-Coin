@@ -42,6 +42,33 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <th>Amount: </th>
+    <th>Too Other Coin : </th>
+    <th>Minimum amount to exchange : </th>
+    <th>Fee : </th>
+  </tr>
+  <tr>
+    <td>
+      <br> 1 XeriCoin is : 
+      <br> 1 XeriCoin is : 
+    </td>
+    <td>
+      <br>0,000000002051 BTC
+      <br>0,00000025254 BCH
+    </td>
+    <td>
+      <br>5 000 XeriCoin
+      <br>1 000 XeriCoin
+    </td>
+    <td>
+      <br>idk at now time
+      <br>idk at now time
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">Get started</h2><br>
 
 Official getting started guides for creating an account and setting up miners on variety of devices are available <a href="https://adamstefaniak57.wixsite.com/xeri-avr-mining?lang=en">on the official website</a>.<br>
