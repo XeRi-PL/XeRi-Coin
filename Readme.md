@@ -91,7 +91,7 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
     <td>
       <br>≈ 200 H/s
       <br>≈ 400 H/s
-      <br>≈y 600 H/s
+      <br>≈ 600 H/s
       <br>≈ 15 kH/s
       <br>≈ 60 kH/s
     </td>
