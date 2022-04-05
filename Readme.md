@@ -22,13 +22,13 @@ Miner GPU - Support ONLY GPU serving OpenCL 3.0 !!!!
 Price - XeriCoin / USD ≈ 0.0001 $
 ````
 </br>
-<h2 align="center">My exchange will deliver :</h2><br>
+<h2 align="center">My exchange liquidity will deliver :</h2><br>
 My exchange delivery just 70 XeriCoin's at month because i don't have more money. In the future, My Stock will be bigger :D
 <br></br>
 <table align="center">
   <tr>
-    <th>Stock exchange trading subsidy :</th>
-    <th>Subsidy in $ :</th>
+    <th>Stock exchange trading liquidity :</th>
+    <th>liquidity in $ :</th>
   </tr>
   <tr>
     <td>
