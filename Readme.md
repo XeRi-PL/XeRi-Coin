@@ -29,8 +29,8 @@
       <br>GPU : NVIDIA GTX 770 2GB
     </td>
     <td>
-      <br>8 MH/s 
-      <br>83 MH/s
+      <br>7,90 MH/s 
+      <br>30,5 MH/s
     </td>
     <td>
       <br>Windows 11
