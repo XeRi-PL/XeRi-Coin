@@ -17,7 +17,7 @@
 </br>
 <table align="center">
   <tr>
-    <th>Device :</th>
+    <th>GPU Device :</th>
     <th>Hashrate : </th>
     <th>Platform : </th>
     <th>Power Consumption : </th>
@@ -38,6 +38,35 @@
     <td>
       <br>idk? ≈20 W
       <br>idk? ≈120 W
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <th>AVR/ESP Device :</th>
+    <th>Hashrate : </th>
+    <th>Platform : </th>
+    <th>Power Consumption : </th>
+  </tr>
+  <tr>
+    <td>
+      <br>Arduino Nano v3
+      <br>ESP 8266
+      <br>ESP 32 Lolin Wemos
+    </td>
+    <td>
+      <br> ? H/s (Propably 400 H/s)
+      <br> ? H/s (Propably 15 kH/s)
+      <br> ? H/s (Propably 60 kH/s)
+    </td>
+    <td>
+      <br>Windows 11 Pro x64 
+      <br>Windows 11 Pro x64 
+    </td>
+    <td>
+      <br>
+      <br> 0,875 W MAX
+      <br> 1.500 W MAX
     </td>
   </tr>
 </table>
