@@ -61,9 +61,9 @@
       <br>0,001345582620 TRX
     </td>
     <td>
-      <br>10 000 XeriCoin
-      <br>6 000 XeriCoin
-      <br>5 000 XeriCoin
+      <br>50 000 XeriCoin ( 5.0 $ )
+      <br>6 000 XeriCoin ( 0.6 $ )
+      <br>5 000 XeriCoin ( 0.5 $ )
     </td>
     <td>
       <br>idk at now time
