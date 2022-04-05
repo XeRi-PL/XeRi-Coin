@@ -27,12 +27,12 @@ My exchange delivery just 0,007$ at month because i don't have more money. In th
 <br></br>
 <table align="center">
   <tr>
-    <th>Market Cap For Sell :</th>
-    <th>Market Cap For Buy :</th>
+    <th>Coin Supply : </th>
+    <th>Amount of capital :</th>
   </tr>
   <tr>
     <td>
-      <br>1_000_000_000_000 XeriCoin
+      <br>Infinity XeriCoin
     </td>
     <td>
       <br> 0,007 $ / month
