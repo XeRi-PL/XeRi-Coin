@@ -43,8 +43,8 @@
       <br>idk? ≈120 W
     </td>
     <td>
-      <br>in tested now
-      <br>in tested now
+      <br> ? XeriCoin
+      <br> ? XeriCoin
     </td>
   </tr>
 </table>
@@ -86,11 +86,11 @@
       <br> 1.500 W MAX
     </td>
     <td>
-      <br>in tested now
-      <br>in tested now
-      <br>in tested now
-      <br>in tested now
-      <br>in tested now
+      <br> ? XeriCoin
+      <br> ? XeriCoin
+      <br> ? XeriCoin
+      <br> ? XeriCoin
+      <br> ? XeriCoin
     </td>
   </tr>
 </table>
