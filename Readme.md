@@ -89,11 +89,11 @@ My exchange delivery just 1.0 $ ( 4,26 PLN ) at month because i don't have more 
       <br>ESP 32 Lolin Wemos
     </td>
     <td>
-      <br>Propably 200 H/s
-      <br>Propably 400 H/s
-      <br>Propably 600 H/s
-      <br>Propably 15 kH/s
-      <br>Propably 60 kH/s
+      <br>probably 200 H/s
+      <br>probably 400 H/s
+      <br>probably 600 H/s
+      <br>probably 15 kH/s
+      <br>probably 60 kH/s
     </td>
     <td>
       <br>Windows 11
