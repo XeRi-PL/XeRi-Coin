@@ -23,7 +23,7 @@ Price - XeriCoin / USD ≈ 0.0001 $
 ````
 </br>
 <h2 align="center">My exchange liquidity will deliver :</h2><br>
-My exchange delivery just 70 XeriCoin's at month because i don't have more money. In the future, My Stock will be bigger :D
+My exchange delivery just 70 XeriCoin's at month because i don't have more money. In the future, My Stock Exchange will be bigger :D
 <br></br>
 <table align="center">
   <tr>
