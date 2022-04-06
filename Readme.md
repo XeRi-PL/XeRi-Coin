@@ -158,7 +158,7 @@ Frequently asked questions and answers, troubleshooting help can be found in the
 
 | Official Wallets | Official Miners |
 :-----------------:|:----------------:
-[<img src="">]()  |  [<img src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/Zrzut%20ekranu%20(13).png">]()
+[<img src="">]()  |  [<img src="">]()
 
 
 
