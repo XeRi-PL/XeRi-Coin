@@ -54,19 +54,19 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
       <br>GPU : NVIDIA GTX 770 2GB
     </td>
     <td>
-      <br>7,90 MH/s 
-      <br>30,5 MH/s
+      <br>≈ 3,40 MH/s 
+      <br>≈ 28,5 MH/s
     </td>
     <td>
       <br>Windows 11
       <br>Windows 11 
     </td>
     <td>
-      <br>≈ 125 XeriCoin
+      <br>≈ 46,5 XeriCoin
       <br>≈ 375 XeriCoin
     </td>
     <td>
-      <br>≈ 3750 XeriCoin
+      <br>≈ 1 400 XeriCoin
       <br>≈ 11 250 XeriCoin
     </td>
   </tr>
