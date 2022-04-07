@@ -100,26 +100,11 @@ def mine(ctx, opencl_algos):
             Speedhash = hashrate / 17_000_000 + uwux
 #-----------------------------------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------------------------------
-def stats():
-    global Speedhash , username
-    try:
-        
-        while True:
-            sleep(0.1)
 
-            xdc = (str(username)+ "," + str(round(float(Speedhash),2)) +","+""+","+""+","+"")
-            #xdc = xdc.split(",")
-            client.send(xdc.encode('utf-8'))
-            #print(xdc)
-            sleep(5)
-            #time.sleep(5)
-
-    except Exception as e:
-                print('Error send : ' + str(e))
 #-----------------------------------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------------------------------
 def main(argv):
-    global uwux , Speedhash, actual_block, job , username ,ping
+    global uwux , Speedhash, actual_block, job , username ,ping , list_gpus
 
     clear()
 
@@ -168,8 +153,7 @@ def main(argv):
                 gpu_used_memory = gpu.memoryUsed
                 gpu_temperature = gpu.temperature
                 list_gpus.append((
-                    gpu_name, gpu_load,gpu_used_memory,
-                    gpu_temperature
+                    gpu_name , round(float(Speedhash),2)
                 ))
 
                 actual_block = "123456789012"
@@ -184,7 +168,9 @@ def main(argv):
                     Fore.RESET
                     print(Fore.LIGHTBLACK_EX + ' in tested look this :' + 
                         'Actual BLOCK : ' +str(actual_block) +' , Nexst BLOCK at : 10 minutes !')
-
+                    print(list_gpus)
+                    xdc = (str(username)+ "," + str(round(float(Speedhash),2)) +","+""+","+""+","+""+","+ str(list_gpus)+","+"GPU")
+                    client.send(xdc.encode('utf-8'))
                 if debug == 1:
                     print(Fore.LIGHTBLACK_EX + str(job))
                 Fore.RESET
@@ -192,6 +178,22 @@ def main(argv):
     
     except Exception as e:
         print('Error adddd: ' + str(e))
+def stats():
+    global Speedhash , username
+    try:
+        
+        while True:
+            sleep(0.1)
+
+            #xdc = (str(username)+ "," + str(round(float(Speedhash),2)) +","+""+","+""+","+"")
+            #xdc = xdc.split(",")
+            #client.send(xdc.encode('utf-8'))
+            #print(xdc)
+            #sleep(5)
+            #time.sleep(5)
+
+    except Exception as e:
+                print('Error send : ' + str(e))
 
 if __name__ == '__main__':
     try:
