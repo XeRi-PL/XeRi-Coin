@@ -13,7 +13,9 @@
 
 <h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards , CPU'S and NVIDIA GPU'S !</h3>
 <h3 align="center">XeRi - Coin is a coin Proof of Work and Proof of Stake ! </h3>
+<br></br>
 <h2 align="center">Info : </h2>
+
 
 
 
@@ -22,7 +24,7 @@
 Miner GPU - Support ONLY GPU serving OpenCL 3.0 !!!!
 Price - XeriCoin / USD ≈ 0.0001 $
 ````
-</br>
+<br></br>
 <h2 align="center">My exchange Market Cap :</h2><br>
 My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more money. In the future, My Stock Exchange will be bigger :D
 <br></br>
@@ -40,6 +42,7 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
     </td>
   </tr>
 </table>
+<br></br>
 
 <h2 align="center">( in build ) Staking Your Coin's : </h2>
 <br></br>
