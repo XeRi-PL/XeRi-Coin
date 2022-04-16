@@ -12,6 +12,7 @@
 </p>
 
 <h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards , NVIDIA GPU'S !</h3>
+<h3 align="center">XeRi - Coin is a coin Proof of Work and Proof of Stake ! </h3>
 <h2 align="center">Info : </h2>
 
 
