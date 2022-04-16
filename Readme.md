@@ -39,6 +39,21 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
     </td>
   </tr>
 </table>
+
+<h2 align="center">( in build ) Staking Your Coin's : </h2>
+<br></br>
+- You can stake your coins for 14 days to earn up to 1% interest rate on them. 
+
+- The minimum stakeable amount is 500 XRQC.
+
+- Example: by freezing 500 XRQC, after two weeks you will receive your initial 500 XRQC back plus the staked amount - 5 XRQC in this case.
+
+- Staked XRQC get frozen and can not be used while the staking process is active. 
+
+- Staking rewards get sent automatically after the staking period. Staking can't be cancelled.
+
+<br></br>
+
 <h2 align="center">GPU Profit Mining :</h2><br>
 <table align="center">
   <tr>
