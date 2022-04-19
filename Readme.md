@@ -15,8 +15,8 @@
 <h3 align="center">XeRi - Coin supports system - Proof of Work and Proof of Stake ! </h3>
 <br></br>
 <h2 align="center">Info : </h2>
-<a href="https://xeri-pl.github.io/XeriCoinPage/">
-
+<a align="center" href="https://xeri-pl.github.io/XeriCoinPage/">----------> Link to project website :D <----------</a>
+<br></br>
 
 
 
