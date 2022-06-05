@@ -45,8 +45,8 @@ Price - XeriCoin / USD ≈ 0.0001 $
       📚 Open-source<br>
     </td>
     <td>
-      ♾️ Coin supply: Infinite (April 2021: 1k coins)<br>
-      😎 Premine: <5k blocks (<500 coins)<br>
+      ♾️ Coin supply: Infinite<br>
+      😎 Premine: <br>
       ⚡ Transaction time: Instant<br>
       🔢 Decimals: up to 20<br>
       🔤 Ticker: XRQC (XRQC)<br>
