@@ -26,6 +26,38 @@ Miner GPU - Support ONLY GPU serving OpenCL 3.0 !!!!
 Price - XeriCoin / USD ≈ 0.0001 $
 ````
 <br></br>
+
+<table align="center">
+  <tr>
+    <th>Key features</th>
+    <th>Technical specifications</th>
+  </tr>
+  <tr>
+    <td>
+      💻 Supported by a large number of platforms<br>
+      👥 A friendly & growing community<br>
+      💱 Easy to use & exchange<br>
+      🌎 Available everywhere<br>
+      :new: Fully original project<br>
+      :blush: Beginner-friendly<br>
+      💰 Cost-effective<br>
+      ⛏️ Easy to mine<br>
+      📚 Open-source<br>
+    </td>
+    <td>
+      ♾️ Coin supply: Infinite (April 2021: 1k coins)<br>
+      😎 Premine: <5k blocks (<500 coins)<br>
+      ⚡ Transaction time: Instant<br>
+      🔢 Decimals: up to 20<br>
+      🔤 Ticker: XRQC (XRQC)<br>
+      ⚒️ Algorithms: SHA-1 +more planned<br>
+      ♐ Rewards: supported by "XeRi system" helping to reward miners fairly<br>
+    </td>
+  </tr>
+</table>
+
+
+
 <h2 align="center">My exchange Market Cap :</h2><br>
 My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more money. In the future, My Stock Exchange will be bigger :D
 <br></br>
