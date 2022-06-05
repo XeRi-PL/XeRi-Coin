@@ -34,21 +34,15 @@ Price - XeriCoin / USD ≈ 0.0001 $
   </tr>
   <tr>
     <td>
-      💻 Supported by a large number of platforms<br>
-      👥 A friendly & growing community<br>
       💱 Easy to use & exchange<br>
       🌎 Available everywhere<br>
       :new: Fully original project<br>
-      :blush: Beginner-friendly<br>
       💰 Cost-effective<br>
       ⛏️ Easy to mine<br>
-      📚 Open-source<br>
     </td>
     <td>
       ♾️ Coin supply: Infinite<br>
-      😎 Premine: <br>
       ⚡ Transaction time: Instant<br>
-      🔢 Decimals: up to 20<br>
       🔤 Ticker: XRQC (XRQC)<br>
       ⚒️ Algorithms: SHA-1 +more planned<br>
       ♐ Rewards: supported by "XeRi system" helping to reward miners fairly<br>
