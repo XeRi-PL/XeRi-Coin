@@ -21,6 +21,8 @@ from os import name as osname
 from pathlib import Path
 from time import sleep
 from threading import Lock
+import configparser
+from configparser import ConfigParser
 colorama.init()
 i = int(0)
 j = int(0)
@@ -32,13 +34,16 @@ client.connect(('127.0.0.1',1233))
 def clear():
     os.system('cls' if os.name=='nt' else 'clear')
 def start(i,j):
-    global sender, recipter , how_many , gpu2
+    global sender, recipter , how_many , gpu2 , one , user
     try:
         while True:
             asd = (""+ ","+ "0.0" +","+ str(sender) + "," + str(recipter) + "," + str(float(how_many))+","+""+","+""+","+"TT")
             client.send(asd.encode('utf-8'))
             msg = client.recv(2024).decode('utf-8')
             msg = msg.split(",")
+            print("----Waiting----")
+            sleep(3)
+            
             if msg[7] == "TT":
                 sleep(1)
                 print("----------------------------------------Transaction success !!!---------------------------------------")
@@ -48,39 +53,68 @@ def start(i,j):
                     asdd = (str(msg[6])+ ","+ "0.0" +","+ str(sender) + "," + str(recipter) + "," + str(float(how_many))+","+""+","+""+","+"TTT")
                     client.send(asdd.encode('utf-8'))
                     sleep(0.1)
-            if msg[0]== "GOOD":
+            elif msg[0]== "GOOD":
                 #sleep()
                 gpu2 = "n"
                 sleep(0.2)
-                
-                
-                #client.close()
-                #print("")
-                #print("This window closed in 30s ..")
-                #sys.argv.clear
-                #main(sys.argv)
-                
-                #sleep(30)
-                #_exit(0)
 
             else:
                 sleep(1)
                 Fore.RESET
+    except Exception as e:
+        NULL
+def amount(i,j):
+    global sender, recipter , how_many , gpu2 , one , user , yty
+    try:
+        
+        amount = (f"{user}" + "," + "" + "," + "" + "," + ""+ "," + "" + "," + "" + "," + "" + "," + "YYY")
+        client.send(amount.encode('utf-8'))
+        msg = client.recv(2024).decode('utf-8')
+        msg = msg.split(",")
+        yty = str(msg[9])
+        if msg[9] == "1":
+            print("Your amount : " + str(msg[8]))
+            sleep(1)
+        if yty == "n":
+            print("OK")
+            one = 0
+            user = ''
+            amountf = 'x'
+
+            client.send(amountf.encode('utf-8'))
+            
+            
+            sleep(1)
+            client.dup
+            print("Witaj ponownie")
+            sys.argv.clear
+            main(sys.argv)
+
                 
     except Exception as e:
         NULL
-        #print(Fore.LIGHTRED_EX +'Error STATS : ' + str(e))
 
 def main(argv):
 
-    global sender, recipter , how_many , one , gpu2
-    print("Menu : ")
-    print("1. check your amount")
-    print("2. send amount to friend")
-    one = input("Optipon (1/2) :")
+    global sender, recipter , how_many , one , gpu2 , user , yty
+
+    user = input("YOUR NICK : ")
+    sys.argv.clear
+    print("-- Menu : ")
+    print("-- 1. check your amount")
+    print("-- 2. send amount to friend")
+    one = input("-- Optipon (1/2) :")
+
     if one == "1":
-        clear()
-        print("amount")
+  
+        while True:
+
+            hread3 = threading.Thread(target=amount, args=(i, j))
+            hread3.start()
+            
+            sleep(1)
+
+
     elif one == "2":
         clear()
         sender = input('Write your name : ')
