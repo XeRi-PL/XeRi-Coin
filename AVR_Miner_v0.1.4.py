@@ -220,7 +220,7 @@ def miner(avrport,):
             val = xxd.readline().decode().strip() #'off \r'
             valA = val.split(',') #'\n'
             sleep(0.2)
-            if val == "08e1000401d500000000000008e1000405cf08e1" or val == "08e1000001d500000000000008e1000005cf08e1":
+            if len(val) == 40:
                 job_good = job_good + 1
             else:
                 job_good = job_good - 1
