@@ -8,68 +8,60 @@
 //  If you don't know what to do, visit official website
 //  and navigate to Getting Started page. Happy mining!
 //////////////////////////////////////////////////////////
+#pragma GCC optimize ("-O0")
 #include <Arduino.h>
 #include "Hash.h"
+#ifndef LED_BUILTIN
+#define LED_BUILTIN 13
+#endif
+#if defined(ARDUINO_ARCH_AVR) || defined(ARDUINO_ARCH_MEGAAVR)
+typedef uint16_t uintDiff;
+#else
+typedef uint32_t uintDiff;
+#endif
 
 void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
   Serial.begin(115200);
+  
   delay(100);
-
+  while (!Serial) ;
+    Serial.flush();
 }
-
 void minersetup()
-
 {
-  //Serial.println("Block : " );
 }
 
 void loop(void) {
-
-  Serial.println("Hello , Happy Mining !");
   miner();
 }
-
 void miner() {
-
-  // usage as String
-  // SHA1:a9993e364706816aba3e25717850c26c9cd0d89d
-  //Serial.print("SHA1:");
-  //Serial.println(sha1("abc"));
-  // usage as ptr
-  // SHA1:a94a8fe5ccb19ba61c4c0873d391e987982fbbd3
   delay (10);
-  int a = 0;
   double MM = 0.00000001;
-  int job1 = 0;
-  int job2 = 0;
-  double XRQC = 3.63;
   do
   {
   //uint8_t hash[10];
   //sha1("test", &hash[0]);
-
   //Serial.print("SHA1:");
   //for (uint16_t i = 0; i < 10; i++) { Serial.print(hash[i]); }
-      
-    delay(450);
-    Serial.print("Job : " + String(job1) + "/" + String(job2) + " * " + 
-    String(MM , DEC) + "XRQC " + " In session: " + String(XRQC * MM , DEC) + " $" );
-    delay (500);
-    //Serial.println("Amount mined : " + String(XRQC * MM, DEC ) + " $ in XRQC" );
 
     minersetup();
-
-    delay(25);
-    PORTB = PORTB | B00100000;
-    // Wait a bit
-    delay(25);
-    // Turn off built-in led
+    
+    #if defined(ARDUINO_ARCH_AVR)
+    delay(100);
     PORTB = PORTB & B11011111;
-    MM = MM + 0.00013112;
-    job1++;
-    job2++;
+    #else
+    digitalWrite(LED_BUILTIN, HIGH);
+    #endif
+    String uwu = Serial.readString();
+    Serial.println(sha1(String(uwu)));
 
-  delay(1000);
+    delay (1300);
+    #if defined(ARDUINO_ARCH_AVR)
+    PORTB = PORTB | B00100000;
+    #else
+    digitalWrite(LED_BUILTIN, LOW);
+    #endif
 } while (MM > 0);
 
 }
