@@ -232,7 +232,7 @@ def miner(avrport,):
             print(Fore.LIGHTBLUE_EX + "COM" + port_num(avrport) + " - " 
             + now().strftime(Style.BRIGHT + "%H:%M:%S")
             + " - " 
-            + Fore.YELLOW + "Hashrate: " + str(Speedhash) + " MH/s ( " + str(Speedhash * 1000000 ) + " kH/s )"
+            + Fore.YELLOW + "Hashrate: " + str(Speedhash) + " MH/s ( " + str(Speedhash * 1000000 ) + " H/s )"
             + Fore.LIGHTCYAN_EX + " - Share's: " + str(job_good) + "/" + str(job_all) 
             + Fore.GREEN + " Ping: " + str(round(float(ping),2)) + " ms")
 
