@@ -110,7 +110,7 @@ def main(argv):
 
     info=opencl_information()
     info.printplatforms()
-    print("This is tested in your PC , oflline. Worked in GPU support -OpenCl 3.0- !!!!!")
+    print("This is beta version in your PC, Worked in GPU NVIDIA - support -OpenCl 3.0- !!!!!")
 
     username = input('Write your name : ')
     try:
