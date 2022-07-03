@@ -13,7 +13,7 @@
 
 <h3 align="center">XeRi - Coin is a coin that can be mined with Arduinos, ESP boards , CPU'S and NVIDIA GPU'S !</h3>
 <h3 align="center">XeRi - Coin supports system - Proof of Work and Proof of Stake ! </h3>
-<h3 align="center">Install in python - colorama , tabulate , opencl , GPUtil </h3>
+<h3 align="center">Install in python - colorama , tabulate , pyopencl , GPUtil </h3>
 <br></br>
 <h2 align="center">Info : </h2>
 <a align="center" href="http://xeri.sytes.net">----------> Link to project website :D <----------</a>
