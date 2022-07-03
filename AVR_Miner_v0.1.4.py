@@ -54,7 +54,7 @@ avrport = ''
 RESOURCES_DIR = "AVRMiner_" + str(MINER_VER) + "_resources"
 config = ConfigParser()
 ping_mean = []
-host = '127.0.0.1'
+host = 'xeri.sytes.net'
 portx = '1233'
 x=''
 
