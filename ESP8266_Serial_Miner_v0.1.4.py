@@ -37,7 +37,7 @@ config = configparser.ConfigParser()
 
 config.add_section('config')
 
-config['config']['host'] = '146.59.44.243'
+config['config']['host'] = 'xeri.sytes.net'
 config['config']['user'] = ''
 config['config']['passwd'] = ''
 config['config']['portx'] = '1233'
