@@ -228,7 +228,7 @@ How to help?
 
 
 1. XeRi-Coins ("XRQC's") are earned by miners with a process called mining.<br/>
-2. Mining is described as using MD5 algorithm , in which finding a correct result to a mathematical problem gives the miner a reward.<br/>
+2. Mining is described as using SHA - 1 algorithm , in which finding a correct result to a mathematical problem gives the miner a reward.<br/>
 3. Mining can be officially done using CPUs, AVR boards (e.g. Arduino boards), ESP32/8266 boards with the usage of official miners (other officially allowed miners are described in the upper part of README).<br/>
 
 <h4 align="center">Privacy policy</h2><br>
@@ -248,7 +248,7 @@ How to help?
 
 - This crypto created By XeRi-PL (    Ziko9231 - Builder Mining Rig's#9766    in Discord) and helpful people Thank's for help my friend's :) 
 
-- XRQC is easy cryptocurrency. Project planned which fork Duino-Coin Library's - It's very helpful :)
+- XRQC is easy cryptocurrency
 
 - XRQC is legal Crypto. Mine it , and profit !
 
