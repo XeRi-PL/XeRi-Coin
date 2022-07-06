@@ -1,17 +1,14 @@
 {
-    "amount": 0.324324,
-
     "english": {
-
+        
         "ports_notice": "If you can't see your board, make sure the it is properly connected and the program has access to it (admin/sudo)",
         "ask_avrport": "Enter your board serial port (COM (Windows) or /dev/ttyUSB1 (Unix)): ",
         "ask_anotherport": "Do you want to add another board? (y/N): "
     },
     "polish": {
-
+        
         "ports_notice": "Jeśli nie widzisz swojej płytki, upewnij się, że jest prawidłowo podłączona i program ma do niej dostęp (admin/sudo)",
         "ask_avrport": " * Wprowadź port szeregowy swojej płytki (COM (Windows) or /dev/ttyUSB1 (Unix)): ",
         "ask_anotherport": " * Chcesz dodać kolejną płytkę? (y/N): "
     }
-
 }
