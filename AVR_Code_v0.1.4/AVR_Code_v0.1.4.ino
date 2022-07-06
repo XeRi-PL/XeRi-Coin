@@ -31,7 +31,6 @@ void setup() {
 void minersetup()
 {
 }
-
 void loop(void) {
   miner();
 }
@@ -40,13 +39,7 @@ void miner() {
   double MM = 0.00000001;
   do
   {
-  //uint8_t hash[10];
-  //sha1("test", &hash[0]);
-  //Serial.print("SHA1:");
-  //for (uint16_t i = 0; i < 10; i++) { Serial.print(hash[i]); }
-
     minersetup();
-    
     #if defined(ARDUINO_ARCH_AVR)
     delay(100);
     PORTB = PORTB & B11011111;
