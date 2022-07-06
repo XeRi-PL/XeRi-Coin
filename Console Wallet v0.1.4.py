@@ -29,7 +29,7 @@ j = int(0)
 v = int(0)
 ###########################################################
 client=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-client.connect(('127.0.0.1',1233))
+client.connect(('xeri.sytes.net',1233))
 ###########################################################
 def clear():
     os.system('cls' if os.name=='nt' else 'clear')
